@@ -56,6 +56,7 @@ public class Main {
             }
         }
         System.out.println();
+
         System.out.println("Задача №4");
         for (int i = 0; i < 3; i++) {
             if (numbers[i] % 2 == 0) {
